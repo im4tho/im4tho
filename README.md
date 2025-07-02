@@ -5,6 +5,7 @@
 - 🔭 I’m just a student that want to become a programmer
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: I really like Japan, but I currently living in Ukraine
+- 🔋 I'm interested in Mobile Development and Machine Learning
 
 Btw, I’m lazy :D
 
