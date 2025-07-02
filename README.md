@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello there! My name is Viktor
 
-<!--
-**im4tho/im4tho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
+- 🔭 I’m just a student that want to become a programmer
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: I really like Japan, but I currently living in Ukraine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Btw, I’m lazy :D
+
+------
+
+#### Message me here 
+[![Github](https://img.shields.io/badge/TELEGRAM-Astrid-blue?style=for-the-badge&logo=telegram)](https://t.me/astr1dacc)
